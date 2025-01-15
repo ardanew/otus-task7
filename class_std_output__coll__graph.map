@@ -1,0 +1,5 @@
+<map id="StdOutput" name="StdOutput">
+<area shape="rect" id="Node000001" title="Outputs a batch to the console." alt="" coords="5,140,98,206"/>
+<area shape="rect" id="Node000002" href="$struct_i_output.html" title="Interface for outputs." alt="" coords="5,5,98,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,107,54,140,49,140,49,107"/>
+</map>

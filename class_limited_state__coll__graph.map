@@ -1,0 +1,11 @@
+<map id="LimitedState" name="LimitedState">
+<area shape="rect" id="Node000001" title="This state will produce a batch when maxCmds reached." alt="" coords="137,381,243,528"/>
+<area shape="rect" id="Node000002" href="$class_base_state.html" title="Base state class." alt="" coords="97,150,190,318"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,332,177,380,172,381,162,333"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,130,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,85,101,125,104,133,99,135,96,127,80,87"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="154,13,285,79"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,80,193,127,189,135,185,133,188,125,206,78"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="215,200,259,267"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,267,212,365,207,364,228,266"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="StdInput" name="StdInput">
+<area shape="rect" id="Node000001" title="Handles console input." alt="" coords="5,160,141,267"/>
+<area shape="rect" id="Node000002" href="$class_i_input.html" title="Interface for input." alt="" coords="5,5,141,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,127,76,161,71,161,71,127"/>
+</map>
