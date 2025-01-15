@@ -1,4 +1,4 @@
-set(TARGET_NAME batch)
+set(TARGET_NAME bulk)
 add_executable(${TARGET_NAME} main.cpp 
     iinput.h stdinput.h stdinput.cpp 
     ioutput.h stdoutput.h stdoutput.cpp logoutput.h logoutput.cpp

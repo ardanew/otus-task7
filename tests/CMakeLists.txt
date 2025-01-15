@@ -1,4 +1,4 @@
-set(TARGET_NAME batch_tests)
+set(TARGET_NAME bulk_tests)
 add_executable(${TARGET_NAME})
 
 target_sources(${TARGET_NAME} PRIVATE
@@ -24,7 +24,7 @@ if(MSVC) # for vs debugging
     )
 endif()
 
-add_test(MatrixTest "${CMAKE_INSTALL_PREFIX}/tests/batch-tests")
+add_test(MatrixTest "${CMAKE_INSTALL_PREFIX}/tests/bulk-tests")
 
 include(GNUInstallDirs)
 install(

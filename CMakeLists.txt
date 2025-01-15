@@ -6,7 +6,7 @@ else()
   set(PATCH_NUM 0)
 endif()
 
-project(batch
+project(bulk
   LANGUAGES CXX
   VERSION 0.0.${PATCH_NUM}
 )
